@@ -1,0 +1,4 @@
+perhatikan bahwa harus mengaktifkan XAMPP
+
+1. Database sudah ada nama database:db_pos_2210020025
+2. 
